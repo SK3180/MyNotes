@@ -1,6 +1,12 @@
 # MyNotes
 
+<img src="https://github.com/SK3180/MyNotes/assets/82767208/620f6398-d698-4e0b-a9f3-e16c2a3ed9e8" alt="MyNotes Icon" width="150" />
+
+
+
 Welcome to **MyNotes**, a simple and efficient note-taking application. With **MyNotes**, you can easily write and manage your notes with a clean and intuitive user interface. This app is built using modern Android development tools and follows the MVVM architecture pattern for maintainable and testable code.
+
+
 
 ## Features
 
